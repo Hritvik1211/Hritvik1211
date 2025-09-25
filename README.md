@@ -40,7 +40,7 @@ I'm passionate about learning, building, and sharing innovative solutions with t
 
 ## 📈 GitHub Stats
 
-![Hritvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hritvik1211&show_icons=true&theme=radical)
+![Hritvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hritvik1211&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
